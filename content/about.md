@@ -3,7 +3,7 @@ title = "About"
 path = "about"
 +++
 
-Good morning ! My name is Charles and I'm a second year Data Science undergrad at the University of Ottawa.
+Good morning ! My name is Charles and I'm a second year Data Science undergrad at the University of Ottawa. Yay
 
 At first, I just wanted to study computer science, but then I took an intro to group theory class and got hooked on abstraction. And now I guess I just have to do Math too.
 
